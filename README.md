@@ -17,7 +17,7 @@
 
 ## Tutorial Reference
 
-This project was created as part of the "[HTML Crash Course: Master the Essentials in One Video! Start Your Front-End Journey Today!](https://www.youtube.com/watch?v=4dprtEzunIk&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-)" tutorial by [Sheryians Coding School](https://in.linkedin.com/company/the-sheryians-coding-school) on YouTube. The tutorial provides step-by-step guidance on basics of HTML.
+This project was created as part of the "[HTML Crash Course: Master the Essentials in One Video! Start Your Front-End Journey Today!](https://www.youtube.com/watch?v=4dprtEzunIk)" tutorial by [Sheryians Coding School](https://in.linkedin.com/company/the-sheryians-coding-school) on YouTube. The tutorial provides step-by-step guidance on basics of HTML.
 
 ## Contributing
 
