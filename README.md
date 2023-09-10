@@ -2,18 +2,18 @@
 
 ## Contents
 
-1. Make HTML File
-2. Boilerplate Code
-3. Understand Tag
-4. Understand Live Server
-5. Heading Tags
-6. Paragraph Tag
-7. Break Tag
-8. Image Tag
-9. Anchor Tag
-10. Div Tag
-11. Understand Class & ID
-12. Style Tag
+1. [Make HTML File](https://github.com/divakargaur/HTML-Crash-Course/blob/master/index.html#L9-L11)
+2. [Boilerplate Code](https://github.com/divakargaur/HTML-Crash-Course/blob/master/index.html#L13-L16)
+3. [Understand Tag](https://github.com/divakargaur/HTML-Crash-Course/blob/master/index.html#L18-L20)
+4. [Understand Live Server](https://github.com/divakargaur/HTML-Crash-Course/blob/master/index.html#L22-L27)
+5. [Heading Tags](https://github.com/divakargaur/HTML-Crash-Course/blob/master/index.html#L29-L35)
+6. [Paragraph Tag](https://github.com/divakargaur/HTML-Crash-Course/blob/master/index.html#L37-L42)
+7. [Break Tag](https://github.com/divakargaur/HTML-Crash-Course/blob/master/index.html#L44-L51)
+8. [Image Tag](https://github.com/divakargaur/HTML-Crash-Course/blob/master/index.html#L53-L57)
+9. [Anchor Tag](https://github.com/divakargaur/HTML-Crash-Course/blob/master/index.html#L59-L60)
+10. [Div Tag](https://github.com/divakargaur/HTML-Crash-Course/blob/master/index.html#L62-L64)
+11. [Understand Class & ID](https://github.com/divakargaur/HTML-Crash-Course/blob/master/index.html#L66-L72)
+12. [Style Tag](https://github.com/divakargaur/HTML-Crash-Course/blob/master/index.html#L81-L91)
 
 ## Tutorial Reference
 
